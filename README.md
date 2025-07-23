@@ -9,8 +9,7 @@
   />
 </div>
 
-
----
+  <img src="https://komarev.com/ghpvc/?username=diya15-2003&label=Profile+Visitors&color=blueviolet&style=flat" />
 
 ## 🚀 About Me
 
@@ -21,6 +20,26 @@
 - ✨ Always open to collaborate on innovative & meaningful projects
 
 ---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:diyaiembca2024@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Diyaa-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>  
+  <a href="https://www.linkedin.com/in/diyamity" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/diyam5784" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/i_diya.03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -68,10 +87,16 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=diya15-2003&theme=algolia&row=1&no-bg=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=diya15-2003&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya15-2003&layout=compact&theme=tokyonight" height="160"/>
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=diya-2003&theme=algolia&no-bg=true" alt="Trophies" />
+  <br/><br/>
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=diya-2003&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="GitHub Stats"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-2003&layout=compact&theme=tokyonight&langs_count=6" height="180" alt="Top Languages"/>
+  <br/><br/>
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=diya-2003&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -90,6 +115,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diya15-2003&label=Profile+Visitors&color=blueviolet&style=flat" />
-</p>
+
