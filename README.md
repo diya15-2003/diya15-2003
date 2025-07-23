@@ -84,11 +84,10 @@
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 
 <p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=diya-2003&theme=algolia&no-bg=true" alt="Trophies" />
+  
   <br/><br/>
   <!-- General Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=diya-2003&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="GitHub Stats"/>
@@ -101,18 +100,8 @@
 
 ---
 
-## 🌐 Connect With Me
-
-- 📧 Email: [diyaiembca2024@gmail.com](mailto:diyaiembca2024@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/diyamity)  
-- 💻 [HackerRank](https://www.hackerrank.com/diyam5784)  
-- 📸 [Instagram](https://www.instagram.com/i_diya.03)
-
----
-
 ## ⚡ Fun Fact
 > _“First, solve the problem. Then, write the code.”_ — John Johnson
 
----
 
 
