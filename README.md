@@ -72,17 +72,70 @@
 
 ## 📌 Projects Highlights
 
-| ⭐ Project | Tech Stack | Description |
-|-----------|------------|-------------|
-| 📚 **Book Recommender** | Python, HuggingFace, PyTorch, LangChain, Gradio | A semantic book recommender system using NLP models and a Gradio-powered UI. |
-| 🍽️ **BVFoodGuide** | HTML, CSS, JS, Java | A guide to food stalls/restaurants at Banasthali Vidyapith with full-stack implementation. |
-| 🎵 **Online Media Player** | CSS, JavaScript | Forked responsive UI for an online media player. |
-| 💡 **CS50 IDE (Forked)** | PHP | Forked IDE project used for backend learning and experimentation. |
-| 📊 **Dataset: Simple Linear** | Python, Pandas, Matplotlib | ML regression dataset project used for basic linear regression experiments. |
+<div align="center">
 
-> 🔍 Explore more 👉 [GitHub Repositories](https://github.com/diya15-2003?tab=repositories)
+<table>
+  <thead>
+    <tr>
+      <th>🚀 Project</th>
+      <th>🛠️ Tech Stack</th>
+      <th>📄 Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>📚 Book Recommender</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gradio-00C853?style=for-the-badge&logo=gradio&logoColor=white"/>
+      </td>
+      <td>Semantic recommender system using NLP models with Gradio UI.</td>
+    </tr>
+    <tr>
+      <td><b>🍽️ BVFoodGuide</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+      </td>
+      <td>A food guide web app for Banasthali campus with full-stack design.</td>
+    </tr>
+    <tr>
+      <td><b>🎵 Online Media Player</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+      </td>
+      <td>Forked responsive media player UI project with modern styling.</td>
+    </tr>
+    <tr>
+      <td><b>💡 CS50 IDE (Forked)</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+      </td>
+      <td>Forked web IDE environment for backend & server-side experimentation.</td>
+    </tr>
+    <tr>
+      <td><b>📊 Dataset: Simple Linear</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+      </td>
+      <td>ML dataset project demonstrating basic linear regression concepts.</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+> 🔍 Explore all projects 👉 [GitHub Repositories](https://github.com/diya15-2003?tab=repositories)
 
 ---
+
 
 ## 📊 GitHub Stats 
 
