@@ -72,15 +72,15 @@
 
 ## 📌 Projects Highlights
 
-| ⭐ Project | Tech | Description |
-|-----------|------|-------------|
-| 🔐 **Password Generator** | Java | CLI app to generate random secure passwords |
-| 🌡️ **Temperature Converter** | Java | GUI tool to convert Celsius ⇌ Fahrenheit |
-| 🎮 **Number Guessing Game** | Java | CLI number game with hints |
-| 📚 **NLP Tools** | Python, NLTK | Tokenization, Stopwords, Sentiment basics |
-| 📈 **Data Analysis Demos** | Python, Pandas | EDA with real-world CSVs and charts |
+| ⭐ Project | Tech Stack | Description |
+|-----------|------------|-------------|
+| 📚 **Book Recommender** | Python, HuggingFace, PyTorch, LangChain, Gradio | A semantic book recommender system using NLP models and a Gradio-powered UI. |
+| 🍽️ **BVFoodGuide** | HTML, CSS, JS, Java | A guide to food stalls/restaurants at Banasthali Vidyapith with full-stack implementation. |
+| 🎵 **Online Media Player** | CSS, JavaScript | Forked responsive UI for an online media player. |
+| 💡 **CS50 IDE (Forked)** | PHP | Forked IDE project used for backend learning and experimentation. |
+| 📊 **Dataset: Simple Linear** | Python, Pandas, Matplotlib | ML regression dataset project used for basic linear regression experiments. |
 
-> 🔍 Explore them here 👉 [My Repositories](https://github.com/diya15-2003?tab=repositories)
+> 🔍 Explore more 👉 [GitHub Repositories](https://github.com/diya15-2003?tab=repositories)
 
 ---
 
