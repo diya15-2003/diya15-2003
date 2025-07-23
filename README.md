@@ -1,10 +1,14 @@
 <!-- Header -->
-<h1 align="center">✨ Diya Maity ✨</h1>
+<h1 align="center">✨ Diya Gupta ✨</h1>
 <h3 align="center">MCA Candidate @ Banasthali '25 | ML • Data Analytics • NLP • Web Dev</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=700&lines=Hello+there!+I'm+Diya+Maity+👋;MCA+@+Banasthali+Vidyapith+🎓;ML+%7C+Data+Analytics+%7C+Python+%7C+SQL+%7C+Java;Love+building+real-world+projects+and+learning+new+tech!💡" alt="Typing animation" />
-</p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=700&lines=Hi+I'm+Diya+Gupta+👋;MCA+Candidate+@+Banasthali+'25+🎓;ML+%7C+Data+Analytics+%7C+Python+%7C+SQL+%7C+Java;Always+learning+and+building+projects!" 
+    alt="Typing SVG centered"
+  />
+</div>
+
 
 ---
 
