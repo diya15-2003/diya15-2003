@@ -1,16 +1,91 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">✨ Diya Maity ✨</h1>
+<h3 align="center">MCA Candidate @ Banasthali '25 | ML • Data Analytics • NLP • Web Dev</h3>
 
-<!--
-**diya15-2003/diya15-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=700&lines=Hello+there!+I'm+Diya+Maity+👋;MCA+@+Banasthali+Vidyapith+🎓;ML+%7C+Data+Analytics+%7C+Python+%7C+SQL+%7C+Java;Love+building+real-world+projects+and+learning+new+tech!💡" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 MCA candidate at **Banasthali Vidyapith** (2023–2025)  
+- 💻 Passionate about **Data Science**, **Machine Learning**, **NLP**, and **Full-stack Web Development**  
+- 🌱 Currently improving skills in **Spring Boot**, **Data Visualization**, and **AI models**  
+- 🎯 Focused on solving real-world problems using data-driven insights  
+- ✨ Always open to collaborate on innovative & meaningful projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-4062BB?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![NLTK](https://img.shields.io/badge/-NLTK-76B900?style=for-the-badge)
+
+### ⚙️ Tools
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+---
+
+## 📌 Projects Highlights
+
+| ⭐ Project | Tech | Description |
+|-----------|------|-------------|
+| 🔐 **Password Generator** | Java | CLI app to generate random secure passwords |
+| 🌡️ **Temperature Converter** | Java | GUI tool to convert Celsius ⇌ Fahrenheit |
+| 🎮 **Number Guessing Game** | Java | CLI number game with hints |
+| 📚 **NLP Tools** | Python, NLTK | Tokenization, Stopwords, Sentiment basics |
+| 📈 **Data Analysis Demos** | Python, Pandas | EDA with real-world CSVs and charts |
+
+> 🔍 Explore them here 👉 [My Repositories](https://github.com/diya15-2003?tab=repositories)
+
+---
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=diya15-2003&theme=algolia&row=1&no-bg=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diya15-2003&show_icons=true&theme=tokyonight&hide_title=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya15-2003&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: [diyaiembca2024@gmail.com](mailto:diyaiembca2024@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/diyamity)  
+- 💻 [HackerRank](https://www.hackerrank.com/diyam5784)  
+- 📸 [Instagram](https://www.instagram.com/i_diya.03)
+
+---
+
+## ⚡ Fun Fact
+> _“First, solve the problem. Then, write the code.”_ — John Johnson
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diya15-2003&label=Profile+Visitors&color=blueviolet&style=flat" />
+</p>
