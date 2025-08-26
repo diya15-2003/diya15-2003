@@ -1,10 +1,10 @@
 <!-- Header -->
-<h1 align="center">✨ Diya Gupta ✨</h1>
-<h3 align="center">MCA Candidate @ Banasthali '25 | ML • Data Analytics • NLP • Web Dev</h3>
+<h1 align="center"> Diya Gupta </h1>
+<h3 align="center">MCA Candidate @ Banasthali '25 | ML • Data Analytics • NLP • Web Dev  </h3>
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=700&lines=Hi+I'm+Diya+Gupta+👋;MCA+Candidate+@+Banasthali+'25+🎓;ML+%7C+Data+Analytics+%7C+Python+%7C+SQL+%7C+Java;Always+learning+and+building+projects!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&width=700&lines=Hi+I'm+Diya+Gupta+;MCA+Candidate+@+Banasthali+'25+🎓;ML+%7C+Data+Analytics+%7C+Python+%7C+SQL+%7C+Java;Always+learning+and+building+projects!" 
     alt="Typing SVG centered"
   />
 </div>
@@ -24,17 +24,14 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:diyaiembca2024@gmail.com" target="_blank">
+  <a href="mailto:diya003g@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Diyaa-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>  
-  <a href="https://www.linkedin.com/in/diyamity" target="_blank">
+  <a href="www.linkedin.com/in/diya-gupta-9a4842222" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/diyam5784" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/i_diya.03" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
